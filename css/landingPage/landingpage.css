@@ -1,0 +1,64 @@
+/* Hero Section */
+.hero-section-third .Overlay {
+    height: 100% !important;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.hero-section-third .HeadersearchBar {
+    padding-top: 250px;
+}
+
+.hero-section-third .header-Button {
+    padding-top: 2%;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.hero-section-third .Free-Tour-Btn {
+    width: 50%;
+}
+
+.hero-section-third .Budget-Plan-Btn {
+    width: 50%;
+}
+
+
+/* Process Section */
+
+.process-section .Overlay {
+    height: 100% !important;
+    background: rgba(0, 0, 0, 0.3);
+    padding-top: 140px;
+    padding-bottom: 140px;
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:480px) {
+    /* Hero Section (button parents width)*/
+    .hero-section-third .header-Button {
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media Queries */
