@@ -2761,7 +2761,7 @@ img.grayscale:hover {
 /*--- 5.4 Page Header ---*/
 .page-header {
     border-bottom: transparent;
-    background: url(../images/page-header.jpg) no-repeat center;
+    background: url(../images/page-header2.jpg) no-repeat center;
     background-size: cover;
     min-height: 340px;
 }

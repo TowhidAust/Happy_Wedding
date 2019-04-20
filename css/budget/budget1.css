@@ -1,0 +1,104 @@
+.Budget_Section {
+    padding: 3% 0;
+}
+
+.Budget_Section .Budget_Plan ul li {
+    list-style: none;
+    border: 1px solid #ddd;
+    margin-left: -40px !important;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    display: flex;
+}
+
+.Budget_Section .Wedding_Category {
+    flex: 1;
+}
+
+
+.Budget_Section .Budget_Tab{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.Budget_Section .Budget_Tab .Btn_Budget{
+    color: white;
+}
+
+.Budget_Section .Budget_Tab .Btn_Choose{
+    color: white;
+}
+
+.Budget_Section .Budget_Tab .Btn_Budget:hover{
+    color: white;
+}
+.Budget_Section .Budget_Tab .Btn_Choose:hover{
+    color: white;
+}
+
+
+.Budget_Section .Main_Budget_Body {
+    padding: 3% 0;
+    border: 1px solid #ddd;
+    min-height: 230px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.Budget_Section .Main_Budget_Body .Venue_Icon {
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    font-size: 2em;
+    height: 100px;
+    width: 100px;
+    padding: 1%;
+}
+
+.Budget_Section .Main_Budget_Body .title {
+    padding-top: 2%;
+    margin-bottom: 1%;
+}
+
+.Budget_Section .Choose_Vendors {
+    margin-top: 2%;
+}
+
+.Budget_Section .Choose_Vendors .Venue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+}
+
+.Budget_Section .Choose_Vendors .Vendor_Title {
+    padding: 1% 2%;
+    -webkit-flex: 5;
+    -ms-flex: 5;
+    flex: 5;
+
+}
+
+.Budget_Section .Choose_Vendors .Vendor_Button {
+    padding: 1% 2%;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+
+.Budget_Section {}
+
+.Budget_Section {}
+
+.Budget_Section {}
+
+.Budget_Section {}
+
+.Budget_Section {}
+
+.Budget_Section {}
