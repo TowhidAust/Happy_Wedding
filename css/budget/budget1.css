@@ -16,27 +16,61 @@
     flex: 1;
 }
 
-
-.Budget_Section .Budget_Tab{
+.Budget_Section .Budget_Tab {
     display: flex;
     justify-content: flex-end;
     align-items: center;
 }
 
-.Budget_Section .Budget_Tab .Btn_Budget{
+.Budget_Section .Budget_Tab .Btn_Budget {
     color: white;
 }
 
-.Budget_Section .Budget_Tab .Btn_Choose{
+.Budget_Section .Budget_Tab .Btn_Choose {
     color: white;
 }
 
-.Budget_Section .Budget_Tab .Btn_Budget:hover{
+.Budget_Section .Budget_Tab .Btn_Budget:hover {
     color: white;
 }
-.Budget_Section .Budget_Tab .Btn_Choose:hover{
+
+.Budget_Section .Budget_Tab .Btn_Choose:hover {
     color: white;
 }
+
+.Budget_Home {
+    padding: 3% 0;
+    border: 1px solid #ddd;
+    min-height: 230px;
+}
+
+.Home_Icon {
+    font-size: 3vh;
+}
+
+.Home_Title {
+    margin-bottom: 0;
+    padding: 1%;
+}
+
+.Cost_Amount {
+    border: 1px solid #333;
+    width: 50%;
+    margin: auto;
+    margin-top: 1%;
+    background-color: rgb(46, 189, 46);
+    color: #fff;
+    transition: 0.8s;
+    padding: 1%;
+}
+
+.Cost_Amount:hover {
+    background-color: rgb(44, 165, 44);
+    cursor: pointer;
+    transition: 0.8s;
+}
+
+
 
 
 .Budget_Section .Main_Budget_Body {
@@ -90,15 +124,3 @@
     -ms-flex: 1;
     flex: 1;
 }
-
-.Budget_Section {}
-
-.Budget_Section {}
-
-.Budget_Section {}
-
-.Budget_Section {}
-
-.Budget_Section {}
-
-.Budget_Section {}
